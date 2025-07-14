@@ -16,7 +16,7 @@ from db import Database
 import utils
 
 # --- НАСТРОЙКИ ---
-BOT_TOKEN = "8072580447:AAHVGhEKrJqyT2HuwcHYHxIi9TZDeiEFpHE"  # <-- ВАЖНО: Вставьте сюда ваш токен
+BOT_TOKEN = ""  # <-- ВАЖНО: Вставьте сюда ваш токен
 # -----------------
 
 # Настройка логирования
